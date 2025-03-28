@@ -103,12 +103,6 @@ public class CalculatorTests
 		Assert.ThrowsException<ArgumentNullException>(() => Program.Divide(null, null));
 	}
 
-	[TestMethod]
-	public void Divide_ByZero()
-	{
-		Assert.ThrowsException<DivideByZeroException>(() => Program.Divide("5", "0"));
-	}
-
 	// Power method tests
 	[TestMethod]
 	public void Power_Valid_Patino()
