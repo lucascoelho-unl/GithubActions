@@ -1,4 +1,4 @@
-[![Run App Coelho, Lucas](https://github.com/lucascoelho-unl/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/lucascoelho-unl/GithubActions/actions/workflows/ci.yml)
+[![Run App Coelho, Lucas](https://github.com/lucascoelho-unl/GithubActions/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lucascoelho-unl/GithubActions/actions/workflows/ci.yml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
